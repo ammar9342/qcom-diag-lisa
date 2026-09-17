@@ -1,0 +1,6 @@
+id=qcom-diag-lisa
+name=Xiaomi 11 Lite 5G NE Diag enabler
+version=v1.0
+versionCode=100
+author=DottoXD
+description=Systemlessly overlays a few Qcom vendor files to make diag work on custom ROMs.

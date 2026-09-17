@@ -1,0 +1,11 @@
+
+on boot
+    start vendor.diag-router
+
+service vendor.diag-router /vendor/bin/diag-router
+    class hal
+    user system
+    group system oem_2901 radio
+    capabilities SYS_ADMIN
+    seclabel u:r:vendor_init:s0
+
